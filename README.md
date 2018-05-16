@@ -2,7 +2,7 @@
 
 A place for me to publish and get feedback on any and all ideas or research that I'm working on.
 
-> Idea shamelessly stolen from [https://github.com/jbenet/random-ideas](here), because it's a good idea. 
+> Idea shamelessly stolen from [here](https://github.com/jbenet/random-ideas), because it's a good idea. 
 
 ## Ideas 
 Any idea that pops into my head that I want to explore or research more thoroughly will be posted here. 
